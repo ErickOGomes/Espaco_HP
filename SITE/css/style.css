@@ -28,7 +28,7 @@ body {
 .logo img {
     max-width: 100%;
     height: auto;
-    animation: girarX 3s linear infinite;
+    animation: girarX 5s linear infinite;
 }
 
 .botoes {
